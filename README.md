@@ -32,10 +32,10 @@ Authors Khan and Melvin Kisten explore Web Development and create interactive we
 3. Run
 
    ```sh
-   cd code-clinic-28-08-2021/HTML
+   cd code-clinic-28-08-2021/JavaScript
    ```
 
-4. Open `index.html` in your favourite browser
+4. Open `*.html` in your favourite browser
 
 ## More Stuff
 
